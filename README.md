@@ -70,6 +70,6 @@ sourcetype="auth_log" "Failed password"
 |------|-------------|
 | [`LAB6_REPORT.md`](LAB6_REPORT.md) | Full write-up — ingestion, SPL, detection, alert, lessons |
 | `splunk_auth_sample.log` | The sample dataset analysed |
-| `images/` | Screenshots: ranked IPs, compromise, timechart spike, saved alert |
+| `Lab Report Notes.docx` | Screenshots: ranked IPs, compromise, timechart spike, saved alert |
 
 **➡️ Read the full investigation in [LAB6_REPORT.md](LAB6_REPORT.md).**
